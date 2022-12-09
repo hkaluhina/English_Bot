@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # English_Bot: Python telegram Bot for communicate with teacher
 
-This is simple telegram-bot for communicate on English lessons with teacher (Python + Django + Telegram API)
-=======
-# Python telegram Bot v.1.0\
+### This is simple telegram-bot for communicate on English lessons with teacher (Python + Django + Telegram API)
+### Python telegram Bot v.1.0\
 ...
 
 Файл зависимостей для pip pip-requirements.txt
@@ -24,5 +22,3 @@ python tga/manage.py runserver
 http://127.0.0.1:8000/admin
 Create default user(superuser U:admin P:123):
 python tga/manage.py createsuperuser
-
->>>>>>> a04101b (Initial commit for English Telegram Bot)
